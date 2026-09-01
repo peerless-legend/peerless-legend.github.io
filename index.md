@@ -1,7 +1,7 @@
-# Welcome to My Portfolio Hello! My name is [Vergil Sparta].
+# Welcome to My Portfolio Hello! My name is [Sparda].
 ## Projects
-- Project 1: Description
-- Project 2: Description
+- Project 1: Null
+- Project 2: Nonexistent
 ## About Me
 Click here to learn more → [About Me](about.md)
 
